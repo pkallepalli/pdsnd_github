@@ -201,7 +201,7 @@ def main():
         trip_duration_stats(df)
         user_stats(df)
 
-        # requesting and viewing raw data(5 lines at a time)
+        # requesting and viewing raw data(5 lines at a time) -- Pradeep Kallepalli
         startIndex, endIndex = 0, 5
         while True:
             raw_data = input('\nWould you like to see next 5 lines of raw data? Enter yes or no.\n')
