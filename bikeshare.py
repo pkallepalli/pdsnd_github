@@ -2,7 +2,7 @@ import time
 import pandas as pd
 import numpy as np
 
-CITY_DATA = CITY_DATA = {
+CITY_DATA = {
     'chicago': r'C:\Users\pkall\OneDrive\Work\Projects\udacity\programing_for_data_science\python\data_files\chicago.csv',
     'new york city': r'C:\Users\pkall\OneDrive\Work\Projects\udacity\programing_for_data_science\python\data_files\new_york_city.csv',
     'washington': r'C:\Users\pkall\OneDrive\Work\Projects\udacity\programing_for_data_science\python\data_files\washington.csv'}
