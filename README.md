@@ -17,5 +17,5 @@ Data files used to perfoem analysis have been collected from 3 major cities
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
-http://www.udacity.com
-https://stackoverflow.com
+* http://www.udacity.com
+* https://stackoverflow.com
