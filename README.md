@@ -6,7 +6,11 @@ Replace the Project Title
 
 ### Description
 Describe what your project is about and what it does
-
+KPI's Include
+* Time Stats
+* Station Stats
+* Trip Duration Stats
+* User Stats
 ### Files used
 Include the files used
 
